@@ -1,0 +1,169 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background-color: #ff4c68;
+    color: white;
+
+}
+
+.container{
+    padding:3% 15%;
+    color: white;
+}
+
+h1{
+    
+    line-height: 2;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+   
+    
+}
+
+h2{
+    font-size: 3rem;
+    line-height: 2;
+    font-weight: bolder;
+    
+}
+
+#testimonials h2{
+    color: white;
+}
+
+h3{
+   
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.cta-heading{
+    font-family: 'Montserrat', sans-serif;
+font-weight: bolder;
+color: white;
+width: 50%;
+margin: auto;
+}
+
+p{
+    color: gray;
+}
+
+/*Navbar*/
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.navbar-item{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+   
+}
+
+
+.navlink{
+    font-size: 1.5rem;
+    font-family:"Montserrat-light" ;
+}
+
+.download-button{
+    margin:5% 3% 5% 0;
+
+}
+
+/*title image*/
+.dog{
+    width:60%;
+    transform: rotate(25deg); 
+    position: absolute;
+}
+
+#features{
+    padding:7% 14%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box{
+    text-align: center;
+
+   
+}
+
+.icon{
+    padding-bottom: 1.5rem;
+}
+
+.icon:hover {
+color:black ;
+}
+
+#cta{
+    background-color:#ff4c68 ;
+    padding:7% 15%;
+    text-align: center;
+}
+
+#footer{
+    padding: 7% 14%;
+    text-align: center;
+}
+
+.fpara{
+    color: gray;
+    font-weight: bolder;
+}
+
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    position: relative;
+    z-index: 2;
+
+}
+
+.dog2{
+    width:10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ff4c68;
+    padding-bottom: 3%;
+    text-align: center;
+
+}
+
+
+#press img{
+    width: 15%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.carousel-item{
+    padding:7% 15%;
+}
+
+#pricing{
+    padding:7% 14%;
+    text-align: center;
+    
+}
+
+#pricing button{
+    width:50%;
+}
+
